@@ -1,10 +1,10 @@
 variable "aws_region" {
-  default = "us-east-2"
+  default = "us-east-1"
   type    = string
 }
 
 variable "ami_id" {
-  default = "ami-0b4750268a88e78e0"
+  default = "ami-08a0d1e16fc3f61ea"
   type    = string
 }
 
